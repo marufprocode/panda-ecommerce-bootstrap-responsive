@@ -15,5 +15,6 @@
 }
 
 .left-border-tost{
+   border-radius: 5px !important;
    border-left: 8px solid goldenrod;
 }
