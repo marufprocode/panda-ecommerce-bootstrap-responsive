@@ -9,3 +9,11 @@
    border-radius: 8px;
    padding: 9px 25px;
 }
+
+.send-btn{
+   background-color: #FF589B;
+}
+
+.left-border-tost{
+   border-left: 8px solid goldenrod;
+}
